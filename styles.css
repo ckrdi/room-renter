@@ -1,6 +1,7 @@
 /* Overriding Bootstrap's "container-fluid" class to remove padding */
-html {
+.wrapper {
   overflow-x: hidden;
+  position: relative;
 }
 
 #Landing {
